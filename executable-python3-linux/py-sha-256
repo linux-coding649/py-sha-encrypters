@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+import hashlib
+import getpass
+
+inp = getpass.getpass('String to encrypt to SHA256: ')
+print('Here is your encrypted string: {}'.format(hashlib.sha256(inp.encode()).hexdigest()))
