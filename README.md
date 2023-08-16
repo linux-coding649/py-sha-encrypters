@@ -1,9 +1,9 @@
 # py-sha-encrypters
 
-    Python3 SHA Encrypters  Copyright (C) 2023  linux-coding649
-    This program comes with ABSOLUTELY NO WARRANTY; Refer to the license for details.
+    Python3 SHA Encrypters  Copyright (C) 2023 by linux-coding649
+    This program comes with ABSOLUTELY NO WARRANTY; Refer to LICENSE for details.
     This is free software, and you are welcome to redistribute it
-    under certain conditions; Refer to the license for details.
+    under certain conditions; Refer to LICENSE for details.
 
 A Python-powered string encrypter that uses SHA256, SHA384, SHA512
 
